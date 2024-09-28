@@ -29,3 +29,17 @@
 3. Kowledge
 4. Reasoning
 5. Planning
+
+## 人工智能的发展的阶段
+1. Classical AI (C-AI)
+2. Knowledge-based AI (K-AI) 
+3. Data-driven AI (D-AI), limitation: Lacks the ability to reason, requires labeled data, only learn what you teach it
+  
+## 参与人工智能的方式
+1. Training Models: 训练模型，通过大量的数据训练模型，使模型具备智能。
+   * Training via data set: 对数据集的收集、清洗、组织、加标记
+   * Training via simulation
+   * Training via demonstration
+2. Build App using Pre-trained Models: 使用预训练模型，通过API接口调用，实现智能应用。
+3. Build App using Custom Models: 训练模型，通过大量的数据训练模型，并进行优化，使模型具备智能。
+4. Use AI Tools: 使用AI工具，如谷歌助手、微软小冰等。
